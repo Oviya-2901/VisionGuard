@@ -1,0 +1,8 @@
+{
+  "name": "Remix: VisionGuard",
+  "description": "An intelligent laboratory safety inspection assistant that uses AI image analysis to check compliance, evaluate risk, and suggest recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
